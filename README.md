@@ -1,13 +1,12 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Mohit%20Kamble&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Exploring%20Agentic%20AI&descAlignY=60&descSize=16" width="100%" alt="Mohit Kamble Banner"/>
+![Mohit Kamble](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohit%20Kamble&fontSize=48&fontColor=ffffff)
 
 <a href="https://github.com/mohitkamble06">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer;Exploring+Agentic+AI+%26+Multi-Agent+Systems;Building+with+Python+%26+Generative+AI;Learning+by+Building+%F0%9F%9A%80" alt="Typing Animation"/>
 </a>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=mohitkamble06&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/mohitkamble06?label=FOLLOWERS&style=for-the-badge&color=0ea5e9" alt="GitHub Followers"/>
 </p>
 
