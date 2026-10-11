@@ -1,10 +1,17 @@
-# 👋 Hi, I'm Mohit Kamble
+ <div align="center">
 
-### 🤖 Aspiring AI/ML Engineer | Agentic AI | Python
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Mohit%20Kamble&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Exploring%20Agentic%20AI&descAlignY=60&descSize=16" width="100%" alt="Mohit Kamble Banner"/>
 
-![GitHub Followers](https://img.shields.io/github/followers/mohitkamble06?label=Followers&style=flat-square&color=0ea5e9)
+<a href="https://github.com/mohitkamble06">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer;Exploring+Agentic+AI+%26+Multi-Agent+Systems;Building+with+Python+%26+Generative+AI;Learning+by+Building+%F0%9F%9A%80" alt="Typing Animation"/>
+</a>
 
-![Mohit Kamble Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=200&section=header&text=Mohit%20Kamble&fontSize=45&fontColor=FFFFFF)
+<p>
+<img src="https://komarev.com/ghpvc/?username=mohitkamble06&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/mohitkamble06?label=FOLLOWERS&style=for-the-badge&color=0ea5e9" alt="GitHub Followers"/>
+</p>
+
+</div>
 
 ---
 
@@ -19,9 +26,9 @@ Hey there! I'm **Mohit Kamble** 👋
 - ✨ Interested in **Generative AI, AI Agents & Prompt Engineering**
 - 🌐 Exploring web development and AI-powered applications
 - 🚀 Building projects to turn ideas into reality
-- 🤝 Open to collaborations, hackathons, and learning opportunities
+- 🤝 Open to collaboration, hackathons, and learning opportunities
 
-> 💡 *My goal is to build intelligent systems that solve real-world problems.*
+💡 *My goal is to build intelligent systems that solve real-world problems.*
 
 ---
 
@@ -29,27 +36,24 @@ Hey there! I'm **Mohit Kamble** 👋
 
 ### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js&theme=dark" alt="Programming Languages"/>
+</p>
 
 ### 🛠️ Development Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,react&theme=dark" alt="Development Tools"/>
+</p>
 
 ### 🧠 AI & Emerging Technologies
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-06B6D4?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-0F766E?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-2563EB?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Generative%20AI-Exploring-8B5CF6?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-Learning-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-Practicing-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-Exploring-0F766E?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -65,38 +69,66 @@ Hey there! I'm **Mohit Kamble** 👋
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitkamble06&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkamble06&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohitkamble06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mohit's GitHub Stats"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohitkamble06&theme=tokyonight&hide_border=true)
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkamble06&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mohitkamble06&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohitkamble06&theme=tokyonight&no-frame=true&no-bg=true)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohitkamble06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kamble-36405838b/)
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitdkamble15@gmail.com)
+<a href="https://www.linkedin.com/in/mohit-kamble-36405838b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitkamble06)
+<a href="mailto:mohitdkamble15@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/mohitkamble06">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
 
 ---
 
 ## 🐍 My Contribution Journey
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/mohitkamble06/mohitkamble06/output/github-snake-dark.svg)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub Contribution Snake" width="100%"/>
+
+</div>
 
 ---
 
-### 💫 "Dream. Learn. Build. Repeat."
+<div align="center">
+
+### 💫 *"Dream. Learn. Build. Repeat."*
 
 **Thanks for visiting my profile! Let's connect and build something awesome.** 🚀
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0F172A&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer" width="100%" alt="Footer Banner"/>
+
+</div>
